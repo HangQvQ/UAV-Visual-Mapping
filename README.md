@@ -4,7 +4,7 @@
 
 This project explore the process of 3D slightly hilly terrain containing a polygon of n corners reconstruction using UAVs with down-pointing stereo-camera. A mesh reconstruction of area is generated from raw images after UAVs scans this area. The core modules are trajectory planning, feature matching, point cloud generation and merging, colored mesh generation.
 
-<img src="image/enviroment.png" alt="environment" width="300" height="300">
+<img src="image/enviroment.png" alt="environment" width="500" height="300">
 
 
 
