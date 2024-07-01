@@ -1,4 +1,4 @@
-# DroneMeshMaker
+# UVA_Visual_SLAM
 
 ### Project Description
 
