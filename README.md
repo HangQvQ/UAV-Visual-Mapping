@@ -1,4 +1,4 @@
-# UVA_Visual_SLAM
+# UAV-Visual-Mapping
 
 ### Project Description
 
