@@ -62,11 +62,7 @@ Then wait a few minutes, you are expected to see another PCL viewer window, whic
 
 
 ### Demo
-- Mesh Generation:
-https://youtu.be/wqpocfeieUQ
-
-- Unity environments with distinctive features of the terrain:
-https://youtu.be/jiScXNfc3rE
+- 
 
 ### Architecture Overview and Interfaces
 ![image](https://github.com/TUM-AAS/autsys-projects-amg/blob/main/image/rosgraph.png)
