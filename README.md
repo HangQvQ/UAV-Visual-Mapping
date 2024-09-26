@@ -7,7 +7,6 @@ This project explore the process of 3D slightly hilly terrain containing a polyg
 <img src="image/enviroment.png" alt="environment" width="300" height="300">
 
 
-
 The main tasks of this project are as follows:
 
 • trajectory planning to cover terrain
