@@ -98,6 +98,18 @@ int main(int argc, char** argv) {
         posz.emplace_back(4.5);
     }
 
+    for(int i=12;i>=0;i++){
+        posx.emplace_back(i*5);
+        posy.emplace_back(-10);
+        posz.emplace_back(4.5);
+    }
+
+    for(int i=12;i>=0;i--){
+        posx.emplace_back(i*5);
+        posy.emplace_back(-15);
+        posz.emplace_back(4.5);
+    }
+
     // for(int i=0;i<=11;i++){
     //     posx.emplace_back(i*3);
     //     posy.emplace_back(-6);
