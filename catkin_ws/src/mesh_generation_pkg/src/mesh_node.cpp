@@ -95,7 +95,7 @@ class mesh_generation
     std::vector<double> cloudx, cloudy;
     ros::Time time_st;
     Eigen::Matrix4f tf_Matrix;
-    Eigen::MatrixXd Vx(1,20);
+    Eigen::MatrixXd V_matrix{1, 20};
 
     double camera_cx;
     double camera_cy;

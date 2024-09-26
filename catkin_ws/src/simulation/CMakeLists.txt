@@ -34,7 +34,7 @@ catkin_package(CATKIN_DEPENDS
 include(ExternalProject)	
 
 ExternalProject_Add(simulation
-    URL               https://www.dropbox.com/s/v1rlg92y4z8tkhs/AreaMeshGeneration.zip?dl=0
+    URL               https://www.dropbox.com/scl/fi/z6syg26yrrk6khefvxmda/AreaMeshGeneration.zip?rlkey=jcl75g8w2p5om979ppdwh9ncl&st=f3ltrmeu&dl=0
     DOWNLOAD_NAME     AreaMeshGeneration.zip
     CONFIGURE_COMMAND chmod +x ../simulation/Linux_build_HightMapping.x86_64
     BUILD_COMMAND     ""
